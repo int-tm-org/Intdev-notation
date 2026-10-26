@@ -1,19 +1,10 @@
 # Code Notation
-**MAIN RULE:** No AI! All your code must be humanmade and only humanmade. You have to understand your algorithms and can to describe your choice. If you didn't know how to realize algorithm, you can use google or ask AI (but only to understand the principle, and not to get the code). All your code must be sent for review by teamlead, and you must be rewrite all code if you cant describe that works. Teamlead check -
+**MAIN RULE:** No AI! Your code must be humanmade and only humanmade. You have to understand your algorithms and can to describe your choice. If you didn't know how to realize algorithm, you can use google or ask AI (but only to understand the principle, and not to get all code). All your code must be sent for review by teamlead, and you must be rewrite all code if you cant describe that works. Teamlead check -
 - Intdev-code notation conformity
 - Performance of algorithms
 - Documentation
 
-## Naming
-| Object | Naming Format | Example |
-| :--- | :--- | :--- |
-| Class | CamelCase | `TestClass` |
-| Functions & Methods | snake_case | `int_get_value` |
-| System Functions & Methods | _snake_case | `_get_value` |
-| Args | Short but clear | `input_value` |
-| Variables | name | `counter` | 
-| System Variables | `_name` | `_counter` | 
-| Constants | UPPER_CASE | `MODULE_VERSION` |
+Use canonical code style for language what you using.
 
 ## Code style
 | Parameter | Description |
